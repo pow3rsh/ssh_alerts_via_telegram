@@ -2,6 +2,6 @@
 
 ```
 CHAT_ID=
-BOT_TOKEN
+BOT_TOKEN=
 ```
 
